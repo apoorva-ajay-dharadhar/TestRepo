@@ -1,5 +1,4 @@
 Change1: This is the first change.
-Change1.5:This is change 1.5.
 Change2: This is the second change.
 Change3: This is the third change.
 Change4: This is the fourth change.

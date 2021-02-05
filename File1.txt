@@ -1,11 +1,13 @@
 Change1: This is the first change.
+
 Change2: This is the second change.
+
 Change3: This is the third change.
+
 Change4: This is the fourth change.
+
 Change5: This is the change five.
-<<<<<<< HEAD
+
 Change6: Change6 added to the file.
+
 Change7: Change7 added to the file.
-=======
-Change6: Change6 added to the file.
->>>>>>> 8bc6fa9 (W6: Change 6 added to the file)

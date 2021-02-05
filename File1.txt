@@ -1,13 +1,23 @@
 Change1: This is the first change.
+
 Change1.5: This is change 1.5.
+
 Change2: This is the second change.
+
 Change2.5: This is change 2.5.
+
 Change3: This is the third change.
+
 Change3.5: This is change 3.5.
+
 Change4: This is the fourth change.
 
-Change5.0: This is the change five.
+Change4.5: This is change 4.5.
+
+Change5: This is the change five.
 
 Change6: Change6 added to the file.
+
 Change6.5: Change6.5 added to the file.
+
 Change7: Change7 added to the file.

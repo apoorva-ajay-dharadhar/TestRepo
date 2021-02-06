@@ -31,7 +31,7 @@ Change 7.0-> Change7 added to the file.
 Change 7.5-> Change7.5 added to the File1.txt.
 
 Change 8.0-> This is change 8.
-
+Change 8.2-> This is change 8.2.
 Change 8.5-> This is change 8.5.
 
 Change 9-> This is change 9.

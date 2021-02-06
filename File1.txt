@@ -14,7 +14,9 @@ Change4.0: This is the fourth change.
 
 Change4.5: This is change 4.5.
 
-Change5.0: This is the change five.
+Change5.0: This is the new change added, change number five.
+
+Change5.5: This is change 5.5.
 
 Change6.0: Change6 added to the file.
 
